@@ -15,5 +15,12 @@ The objective of this project is to learn various desciplines involved in develo
 ![TicTacToe Class Diagram](./TicTacToeClassDgm.svg)
 
 ### Sequence Diagram
+<br>
 
 ## 3. Build & Execute
+```
+mkdir build
+cd build
+cmake ..
+cmake --build .
+.\Debug\tictactoe.exe
