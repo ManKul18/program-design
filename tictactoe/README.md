@@ -6,16 +6,25 @@
 
 ---
 ## 1. Description
-The objective of this project is to learn various desciplines involved in development of Tic Tac Toe game as C++ application. The major importance was given to the usage of UML during design rather the code quality. Nevertheless improvement is always welcome. 
+The objective of this project is to learn various disciplines involved in the development of the Tic Tac Toe game as a C++ application. Importance is given to the usage of UML during design rather than the code quality. Nevertheless, suggestions & improvements are always welcome.
+
+Areas of improvement
+- Class restructuring
+- Coding
+- UML diagrams
 
 > Inspired by http://www.cs.mun.ca/~av/courses/5895-current/?page_id=24 
 
 ## 2. Design
+
+> These diagrams are editable with draw.io
+
 ### Class Diagram
-![TicTacToe Class Diagram](./TicTacToeClassDgm.svg)
+![Class Diagram](./class-diagram.svg)
 
 ### Sequence Diagram
-<br>
+#### Object creation
+![Object Creation Sequence](object-creation-sequence.svg)
 
 ## 3. Build & Execute
 ```
